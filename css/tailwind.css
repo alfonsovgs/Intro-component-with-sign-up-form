@@ -5,5 +5,5 @@
 @tailwind utilities;
 
 .form-control {
-    @apply w-full border-2 h-12 px-6 rounded-md my-2 font-semibold text-black placeholder-gray-600;
+    @apply w-full border-2 h-12 px-6 rounded-md my-2 font-semibold text-black;
 }
